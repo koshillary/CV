@@ -1,4 +1,4 @@
-# [Kosgei Hillary](twitter.com/kosgei)
+# [Kosgei Hillary](www.twitter.com/kosgei)
 ## Welcome to My GitHub Page Depicting my Résumé
 
 <!---You can use the [editor on GitHub](https://github.com/koshillary/myresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
