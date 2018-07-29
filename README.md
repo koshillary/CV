@@ -41,17 +41,20 @@ Business and Information Systems Analyst. In possession of a wide selection of s
   - Statistical Analysis and Machine Learning
   - Visualizations using Tableau, R, Excel
   - Forecasting and optimization
+  - Modeling and estimation using SPSS, Stata, R, Excel, and JMP. Learning Python and SAS, too.
 3. **Clerk**: Held short clerical positions with Kenya National Bureau of Statistics, Electoral Commission, and A Commercial Bank during a Rights Issue project.
 
 `These roles and trainings have equipped me with various competencies and skills, including`
-- Team work
-- Interpersonal and communication skills
+- Team work, Interpersonal and communication skills
 - Application of computing tools and algorithms to solve problems and support evidence-based decision making
 - Research, Analytics, and Report writing
+- Business analysis in terms of strategic and financial evaluations
 
-## Interests
-- Hiking
-- Theatre (frequent patron of Heartstrings Entertainment at Alliance Française
+## Interests (& Hobbies)
+- Data Science, Project Monitoring & Evaluation, Business Analysis, Information Systems Analysis and Design.
+- Programming (Python, SQL, R, HTML, CSS)
+- Hiking (Been to Menengai Crater)
+- Theatre (frequent patron of Heartstrings Entertainment at Alliance Française, Nairobi
 - Reading, Watching (Movies, Football, F1), Music
 
-`Would love to join a team of people who value hard work, diligence, independent thinking, and proactive problem solving.`
+`Would love to join a team of progressive and data-driven professionals who value hard work, diligence, independent thinking, and proactive problem solving.`
