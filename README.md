@@ -29,9 +29,29 @@ Business and Information Systems Analyst. In possession of a wide selection of s
 
 ## Academic and Professional Qualifications
 
-- Bachelor of Commerce (Business Information Systems)
-- Certified Public Accountants of Kenya (CPA II)
+- Bachelor of Commerce (**Business Information Systems**)
+- Certified Public Accountants of Kenya (**CPA II**)
 - Monitoring and Evaluation Certificate
 
 ## Experience
 
+1. **Sales**: Completed a six-month sales contract with a commercial bank, attaining 89 percent of targeted sales performance.
+2. **Analyst**: Been a freelance analyst assisting clients via digital marketplaces such as [Fiverr.com] complete various types of analyses, including:
+  - Financial (stock/ratio) analysis
+  - Statistical Analysis and Machine Learning
+  - Visualizations using Tableau, R, Excel
+  - Forecasting and optimization
+3. **Clerk**: Held short clerical positions with Kenya National Bureau of Statistics, Electoral Commission, and A Commercial Bank during a Rights Issue project.
+
+`These roles and trainings have equipped me with various competencies and skills, including`
+- Team work
+- Interpersonal and communication skills
+- Application of computing tools and algorithms to solve problems and support evidence-based decision making
+- Research, Analytics, and Report writing
+
+## Interests
+- Hiking
+- Theatre (frequent patron of Heartstrings Entertainment at Alliance Française
+- Reading, Watching (Movies, Football, F1), Music
+
+`Would love to join a team of people who value hard work, diligence, independent thinking, and proactive problem solving.`
