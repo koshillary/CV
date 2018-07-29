@@ -57,4 +57,4 @@ Business and Information Systems Analyst. In possession of a wide selection of s
 - Theatre (frequent patron of Heartstrings Entertainment at Alliance Française, Nairobi
 - Reading, Watching (Movies, Football, F1), Music
 
-`Would love to join a team of results-oriented and data-driven professionals who value hard work, diligence, independent thinking, and proactive problem solving.`
+`Would love to join a team of results-oriented and data-driven professionals who value hard work, diligence, independent thinking, and proactive problem solving.`To discuss my inclusion in your team, [Private Message me on Twitter](https://twitter.com/messages/compose?recipient_id=43146159]
