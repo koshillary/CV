@@ -39,9 +39,9 @@ Business and Information Systems Analyst. In possession of a wide selection of s
 2. **Analyst**: Been a freelance analyst assisting clients via digital marketplaces such as [Fiverr.com] complete various types of analyses, including:
   - Financial (stock/ratio) analysis
   - Statistical Analysis and Machine Learning
-  - Visualizations using Tableau, R, Excel
+  - Visualizations using **Tableau, R, Excel**
   - Forecasting and optimization
-  - Modeling and estimation using SPSS, Stata, R, Excel, and JMP. Learning Python and SAS, too.
+  - Modeling and estimation using **SPSS, Stata, R, Excel, and JMP**. Learning **Python** and SAS, too.
 3. **Clerk**: Held short clerical positions with _Kenya National Bureau of Statistics, Electoral Commission_, and a Commercial Bank for a Rights Issue project.
 
 `These roles and trainings have equipped me with various competencies and skills, including`
