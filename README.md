@@ -1,5 +1,5 @@
 # [Kosgei Hillary](https://www.twitter.com/kosgei)
-## Welcome to My GitHub Page Depicting my Résumé
+<!---## Welcome to My GitHub Page Depicting my Résumé-->
 
 <!---You can use the [editor on GitHub](https://github.com/koshillary/myresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
 
@@ -25,13 +25,13 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Profile
 
-Business and Information Systems Analyst. In possession of a wide selection of skills and breadth of knowledge spanning Finance, IT, Project Management, and Data Science. Equally wide-ranging interests such as Project Management and Programming. Diligent, hard working, self starter, and organized.
+Business and Information Systems Analyst. In possession of a wide selection of skills and breadth of knowledge spanning Finance, IT, and Data Science. Equally wide-ranging interests such as Project Management and Programming. Diligent, hard working, self starter, and organized.
 
 ## Academic and Professional Qualifications
 
 - Bachelor of Commerce (**Business Information Systems**)
 - Certified Public Accountants of Kenya (**CPA II**)
-- Monitoring and Evaluation Certificate
+- **Monitoring and Evaluation** Certificate
 
 ## Experience
 
@@ -41,10 +41,10 @@ Business and Information Systems Analyst. In possession of a wide selection of s
   - Statistical Analysis and Machine Learning
   - Visualizations using **Tableau, R, Excel**
   - Forecasting and optimization
-  - Modeling and estimation using **SPSS, Stata, R, Excel, and JMP**. Learning **Python** and SAS, too.
+  - Modeling and estimation using **SPSS, Stata, R, Excel, and JMP**. Currently learning **Python**.
 3. **Clerk**: Held short clerical positions with _Kenya National Bureau of Statistics, Electoral Commission_, and a Commercial Bank for a Rights Issue project.
 
-`These roles and trainings have equipped me with various competencies and skills, including`
+`These roles and trainings have equipped me with knowledge as well as various competencies and skills, including`
 - Team work, Interpersonal and communication skills
 - Application of computing tools and algorithms to solve problems and support evidence-based decision making
 - Research, Analytics, and Report writing
