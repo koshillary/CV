@@ -1,4 +1,4 @@
-# [Kosgei Hillary](https://www.twitter.com/kosgei)
+# [Kosgei Hillary]
 <!---## Welcome to My GitHub Page Depicting my Résumé-->
 
 <!---You can use the [editor on GitHub](https://github.com/koshillary/myresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
@@ -25,19 +25,19 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Profile
 
-Business and Information Systems Analyst. In possession of a wide selection of skills and breadth of knowledge spanning Finance, IT, and Data Science. Equally wide-ranging interests such as Project Management and Programming. Diligent, hard working, self starter, and organized.
+Business and Information Systems Analyst. Aspiring Data Scientist. Interested in M&E. Diligent, hard working, self starter, and organized.
 
 ## Academic and Professional Qualifications
 
-- Bachelor of Commerce (**Business Information Systems**)
+- Bachelor of Commerce (Business Information Systems)
 - Certified Public Accountants of Kenya (**CPA II**)
-- **Monitoring and Evaluation** Certificate
+- Monitoring and Evaluation Certificate
 
 ## Experience
 
-1. **Sales Executive**: Completed a six-month sales contract with a commercial bank, attaining 89 percent of targeted sales performance.
-2. **Analyst**: Been a freelance analyst assisting clients via digital marketplaces such as [Fiverr.com] complete various types of analyses, including:
-  - Financial (stock/ratio) analysis
+1. **Sales Executive**: Gained banking experience through a sales role, attaining 89 percent of targeted sales performance.
+2. **Analyst**: Assisted clients via digital platforms such as [Fiverr.com] to complete various types of analyses, including:
+  - Financial (valuation) analysis
   - Statistical Analysis and Machine Learning
   - Visualizations using **Tableau, R, Excel**
   - Forecasting and optimization
@@ -47,17 +47,14 @@ Business and Information Systems Analyst. In possession of a wide selection of s
 `These roles and trainings have equipped me with knowledge as well as various competencies and skills, including`
 - Team work, Interpersonal and communication skills
 - Application of computing tools and algorithms to solve problems and support evidence-based decision making
-- Research, Analytics, and Report writing
+- Research, Analytics and Report writing
 - Business analysis in terms of strategic and financial evaluations
 
 ## Interests & Hobbies
-- Data Science, Project Monitoring & Evaluation, Business Analysis, Information Systems Analysis and Design.
+- Data Science, Project Monitoring & Evaluation, Business Analysis, Information Systems Analysis.
 - Programming (Python, SQL, R, HTML, CSS)
 - Hiking (Been to Menengai Crater)
-- Theatre (frequent patron of Heartstrings Entertainment at Alliance Française, Nairobi
+- Theatre (Heartstrings Entertainment at Alliance Française, Nairobi
 - Reading, Watching (Movies, Football, F1), Music
 
-`Would love to join a team of results-oriented and data-driven professionals who value hard work, diligence, independent thinking, and proactive problem solving.`
-
-### Reach out on Twitter
-To discuss my inclusion in your team, [Private Message me on Twitter](https://twitter.com/messages/compose?recipient_id=43146159)
+`Would love to join a team of results-oriented and data-driven professionals who value hard work, diligence, independent thinking and proactive problem solving.`
