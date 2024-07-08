@@ -1,4 +1,4 @@
-# [Kosgei Hillary]
+# Kosgei Hillary
 <!---## Welcome to My GitHub Page Depicting my Résumé-->
 
 <!---You can use the [editor on GitHub](https://github.com/koshillary/myresume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
@@ -25,12 +25,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ## Profile
 
-Business and Information Systems Analyst. Aspiring Data Scientist. Interested in M&E. Diligent, hard working, self starter, and organized.
+Business and Information Systems Analyst. Aspiring Data Scientist. Interested in M&E. Diligent, hard working, self starter and organized.
 
 ## Academic and Professional Qualifications
 
 - Bachelor of Commerce (Business Information Systems)
-- Certified Public Accountants of Kenya (**CPA II**)
+- 2/3 Certified Public Accountants of Kenya (**CPA II**)
 - Monitoring and Evaluation Certificate
 
 ## Experience
@@ -51,10 +51,10 @@ Business and Information Systems Analyst. Aspiring Data Scientist. Interested in
 - Business analysis in terms of strategic and financial evaluations
 
 ## Interests & Hobbies
-- Data Science, Project Monitoring & Evaluation, Business Analysis, Information Systems Analysis.
-- Programming (Python, SQL, R, HTML, CSS)
+- Data Science, Monitoring & Evaluation, Business Analysis, Information Systems Analysis.
 - Hiking (Been to Menengai Crater)
 - Theatre (Heartstrings Entertainment at Alliance Française, Nairobi
-- Reading, Watching (Movies, Football, F1), Music
+- Reading, Watching Movies
+- Fact-checking
 
 `Would love to join a team of results-oriented and data-driven professionals who value hard work, diligence, independent thinking and proactive problem solving.`
